@@ -10,6 +10,7 @@ In addition to performing calculations, the chatbot can also respond to small ta
 
 The chatbot also provides the user with a list of available operations if they request it. The chatbot will continue to run until the user types "exit", at which point the program will terminate with a farewell message.
 
+Below is the screenshot of the output
 
 ![ss of chatbot](https://user-images.githubusercontent.com/78100230/221654830-00824aaa-192a-422b-a7a5-b2836a626d85.png)
 
