@@ -1,6 +1,6 @@
 # chatbot
 
-The given code is a simple chatbot that acts as a basic calculator. The chatbot interacts with the user by taking input from them, processing it, and providing a response based on the input.
+The code is a simple chatbot that acts as a basic calculator. The chatbot interacts with the user by taking input from them, processing it, and providing a response based on the input.
 
 The chatbot is implemented in Python and uses the 're' module to match user input to a set of predefined patterns. The patterns match specific keywords that indicate the user's intent, such as "add", "subtract", "multiply", and "divide".
 
