@@ -1,4 +1,4 @@
-# chatbot
+# Basic Chatbot Calculator
 
 The code is a simple chatbot that acts as a basic calculator. The chatbot interacts with the user by taking input from them, processing it, and providing a response based on the input.
 
